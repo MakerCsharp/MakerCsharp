@@ -1,10 +1,9 @@
-
 ## Имя и фамилия
 Никита Фединский
 
 ## Контактная информация
 ![telegram](https://img.icons8.com/color/15/telegram-app.png) [Telegram - django_proect ](https://t.me/django_proect)
-
+![]
 ## Оброзование
 ### Московский Энергетический Институт
 - Бакалавриат
@@ -12,14 +11,11 @@
 - Cпециальсность "Прикладная информатика в экономике"
 - Факультет "Инженерно – экономический институт (ИНЭИ)"
 - Года окончания 2026 год
-
 ### Колледж связи No 54 Имени П.М.Вострухина
-
 - Информационные системы и программирование
 - Дневная форма обучения
 - Диплом с отличием
 - Год окончания 2021 год
-
 ## Навыки
 ### Программирование
 ![Bash](https://img.icons8.com/color/48/bash.png) 
@@ -48,4 +44,8 @@
 
 ## Язык
 - Русский: Родной
+## Мои резюме
+[![Canva](https://img.icons8.com/color/48/canva.png)](https://www.canva.com/design/DAFM95rC5TU/CBfgP3gbx9II7CkHhJlBsg/edit?utm_content=DAFM95rC5TU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![HH](https://asset.brandfetch.io/id-6SN6u-i/idxUI62z-y.svg)](https://hh.ru/applicant/resumes/view?resume=64325410ff0b31668b0039ed1f30796c4d4139&print=true)
+
 
