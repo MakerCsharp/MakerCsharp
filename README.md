@@ -25,7 +25,6 @@ function copyPhoneNumber() {
 
 
 
-
 ## Оброзование
 ### [Московский Энергетический Институт](https://mpei.ru/Pages/default.aspx)
 - Бакалавриат
