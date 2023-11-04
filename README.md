@@ -2,16 +2,38 @@
 Никита Фединский
 
 ## Контактная информация
-![telegram](https://img.icons8.com/color/15/telegram-app.png) [Telegram - django_proect ](https://t.me/django_proect)
-![]
+[![telegram](https://img.icons8.com/color/48/telegram-app.png)](https://t.me/django_proect)
+
+<a href="javascript:void(0);" onclick="copyPhoneNumber()">
+  <img src="https://img.icons8.com/flat-round/48/phone.png" alt="phone">
+</a>
+
+<script>
+function copyPhoneNumber() {
+  const phoneNumber = "79851478523"; 
+  const dummyInput = document.createElement("input");
+  document.body.appendChild(dummyInput);
+  dummyInput.setAttribute("value", phoneNumber);
+  dummyInput.select();
+  document.execCommand("copy");
+  document.body.removeChild(dummyInput);
+  alert("Номер телефона скопирован: " + phoneNumber);
+}
+</script>
+
+
+
+
+
+
 ## Оброзование
-### Московский Энергетический Институт
+### [Московский Энергетический Институт](https://mpei.ru/Pages/default.aspx)
 - Бакалавриат
 - 2 курс 
 - Cпециальсность "Прикладная информатика в экономике"
 - Факультет "Инженерно – экономический институт (ИНЭИ)"
 - Года окончания 2026 год
-### Колледж связи No 54 Имени П.М.Вострухина
+### [Колледж связи No 54 Имени П.М.Вострухина](https://www.ks54.ru/)
 - Информационные системы и программирование
 - Дневная форма обучения
 - Диплом с отличием
