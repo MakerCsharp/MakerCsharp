@@ -45,6 +45,8 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakerCsharp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
+![Exercism Track Progress](https://img.shields.io/badge/Exercism-Progress-green?style=flat&logo=exercism&logoColor=white&labelColor=blueviolet&color=success)
+
 ![MakerCsharp's Stats](https://github-readme-stats.vercel.app/api?username=MakerCsharp&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ## Язык
