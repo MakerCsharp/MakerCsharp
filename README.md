@@ -39,7 +39,6 @@
 ---
 ![CodeWars Badges](https://www.codewars.com/users/MakerCsharp/badges/large)
 ---
-[![LeetCode](https://img.shields.io/badge/LeetCode-MakerCsharp-%23ff8c00?style=for-the-badge&logo=leetcode)](https://leetcode.com/MakerCsharp/)
 ### Cтатистика  git hub
 [![GitHub Streak](https://streak-stats.demolab.com?user=MakerCsharp&theme=dark&hide_border=true&locale=ru&card_width=498&hide_total_contributions=true)](https://github-readme-streak-stats.herokuapp.com/?user=MakerCsharp)
 ---
