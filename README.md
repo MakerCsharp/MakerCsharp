@@ -16,7 +16,7 @@
 - Cпециальсность "Прикладная информатика в экономике"
 - Факультет "Инженерно – экономический институт (ИНЭИ)"
 - Года окончания 2026 год
-### [Колледж связи No 54 Имени П.М.Вострухина](https://www.ks54.ru/)
+### [Колледж связи № 54 Имени П.М.Вострухина](https://www.ks54.ru/)
 - Информационные системы и программирование
 - Дневная форма обучения
 - Диплом с отличием
@@ -39,18 +39,9 @@
 ---
 ![CodeWars Badges](https://www.codewars.com/users/MakerCsharp/badges/large)
 ---
-### Cтатистика  git hub
-[![GitHub Streak](https://streak-stats.demolab.com?user=MakerCsharp&theme=dark&hide_border=true&locale=ru&card_width=498&hide_total_contributions=true)](https://github-readme-streak-stats.herokuapp.com/?user=MakerCsharp)
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakerCsharp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
-![Exercism Track Progress](https://img.shields.io/badge/Exercism-Progress-green?style=flat&logo=exercism&logoColor=white&labelColor=blueviolet&color=success)
-
 ![MakerCsharp's Stats](https://github-readme-stats.vercel.app/api?username=MakerCsharp&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ## Язык
 - Русский: Родной
-## Мои резюме
->[![Canva](https://img.icons8.com/color/48/canva.png)](https://www.canva.com/design/DAFM95rC5TU/CBfgP3gbx9II7CkHhJlBsg/edit?utm_content=DAFM95rC5TU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[![HH](https://asset.brandfetch.io/id-6SN6u-i/idxUI62z-y.svg)](https://hh.ru/applicant/resumes/view?resume=64325410ff0b31668b0039ed1f30796c4d4139&print=true)
+
 
