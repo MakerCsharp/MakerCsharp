@@ -52,9 +52,9 @@
 - Русский: Родной
 
 ## Опыт работы 
-<img decoding="async" class="wp-image-13424 size-full alignleft" src="https://russianspacesystems.ru/wp-content/uploads/2016/11/logo_okb_mei_mini.png" width="210" height="41">
-
-
+Особое конструкторское бюро МЭИ
+должность :Техник первой категории 
+Описание :Работа со стандартом MIO-STD-1553 c применением языка C++
 ## счетчик просмотров 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/MakerCsharp/MakerCshar/github-profile-views-counter">
