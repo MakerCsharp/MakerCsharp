@@ -31,7 +31,7 @@
 ![flutter](https://img.icons8.com/fluency/48/flutter.png)
 #### Фреймворки 
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="32" height="32" alt="Qt Icon"></img>
-<img width="48" height="48" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"></img>
+<img width="32" height="32" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"></img>
 ### Веб-разработка
 >![HTML5](https://img.icons8.com/color/48/html-5--v1.png) 
 ![CSS3](https://img.icons8.com/color/48/css3.png)
