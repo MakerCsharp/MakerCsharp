@@ -15,25 +15,27 @@
 - 2 курс 
 - Cпециальность "Прикладная информатика в экономике"
 - Факультет "Инженерно – экономический институт (ИНЭИ)"
-- Года окончания 2026 год
+- Года окончания 2025 год
 ### [Колледж связи № 54 Имени П.М.Вострухина](https://www.ks54.ru/)
 - Информационные системы и программирование
 - Дневная форма обучения
 - Диплом с отличием
 - Год окончания 2021 год
 ## Навыки
-### Программирование
+### Языки программирования
 >![Bash](https://img.icons8.com/color/48/bash.png) 
 ![C#](https://img.icons8.com/color/48/c-sharp-logo.png) 
 ![Python](https://img.icons8.com/color/48/python--v1.png)
 ![C](https://img.icons8.com/fluency/48/c-programming.png)
 ![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)
 ![flutter](https://img.icons8.com/fluency/48/flutter.png)
->
+#### Фремворки 
+![qt](https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg)
 ### Веб-разработка
 >![HTML5](https://img.icons8.com/color/48/html-5--v1.png) 
 ![CSS3](https://img.icons8.com/color/48/css3.png)
 ![boostrap](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png)
+### Фремворки
 ![Django](https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-tritone-tal-revivo.png)
 ### Инструменты
 >![Git](https://img.icons8.com/color/48/git.png) 
