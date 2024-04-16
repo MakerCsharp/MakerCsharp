@@ -25,7 +25,9 @@
 ### Программирование
 >![Bash](https://img.icons8.com/color/48/bash.png) 
 ![C#](https://img.icons8.com/color/48/c-sharp-logo.png) 
-![Python](https://img.icons8.com/color/48/python--v1.png) 
+![Python](https://img.icons8.com/color/48/python--v1.png)
+![C++](https://img.icons8.com/fluency/48/c-programming.png)
+>
 ### Веб-разработка
 >![HTML5](https://img.icons8.com/color/48/html-5--v1.png) 
 ![CSS3](https://img.icons8.com/color/48/css3.png)
