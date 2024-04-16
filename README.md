@@ -2,16 +2,22 @@
 Никита Фединский
 
 ## Контактная информация
-<a href="https://t.me/django_proect">
-    <img src="https://img.icons8.com/color/48/telegram-app.png" alt="Telegram" width="48" height="48">
-</a>
-
-<a href="mailto:nik.fedinsky@mail.ru">
-    <img src="https://img.icons8.com/fluency/48/apple-mail.png" alt="Email" width="48" height="48">
-</a>
-
-<img src="https://img.icons8.com/color/48/apple-phone.png" alt="Phone" width="48" height="48">
-<span>79851478523</span>
+<ul>
+    <li>
+        <a href="https://t.me/django_proect">
+            <img src="https://img.icons8.com/color/48/telegram-app.png" alt="Telegram" width="48" height="48">
+        </a>
+    </li>
+    <li>
+        <a href="mailto:nik.fedinsky@mail.ru">
+            <img src="https://img.icons8.com/fluency/48/apple-mail.png" alt="Email" width="48" height="48">
+        </a>
+    </li>
+    <li>
+        <img src="https://img.icons8.com/color/48/apple-phone.png" alt="Phone" width="48" height="48">
+        <span>79851478523</span>
+    </li>
+</ul>
 
 ## Образование
 ### [Московский Энергетический Институт](https://mpei.ru/Pages/default.aspx)
