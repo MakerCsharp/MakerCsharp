@@ -30,7 +30,7 @@
 ![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)
 ![flutter](https://img.icons8.com/fluency/48/flutter.png)
 #### Фреймворки 
-<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="32" height="32" alt="Qt Icon">
+<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="32" height="32" alt="Qt Icon"></img>
 ### Веб-разработка
 >![HTML5](https://img.icons8.com/color/48/html-5--v1.png) 
 ![CSS3](https://img.icons8.com/color/48/css3.png)
