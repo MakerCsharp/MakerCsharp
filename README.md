@@ -26,7 +26,8 @@
 >![Bash](https://img.icons8.com/color/48/bash.png) 
 ![C#](https://img.icons8.com/color/48/c-sharp-logo.png) 
 ![Python](https://img.icons8.com/color/48/python--v1.png)
-![C++](https://img.icons8.com/fluency/48/c-programming.png)
+![C](https://img.icons8.com/fluency/48/c-programming.png)
+![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)
 >
 ### Веб-разработка
 >![HTML5](https://img.icons8.com/color/48/html-5--v1.png) 
