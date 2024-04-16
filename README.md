@@ -28,6 +28,7 @@
 ![Python](https://img.icons8.com/color/48/python--v1.png)
 ![C](https://img.icons8.com/fluency/48/c-programming.png)
 ![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)
+![flutter](https://img.icons8.com/fluency/48/flutter.png)
 >
 ### Веб-разработка
 >![HTML5](https://img.icons8.com/color/48/html-5--v1.png) 
