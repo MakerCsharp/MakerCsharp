@@ -14,44 +14,8 @@
         </a>
     </li>
     <li>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Copy Phone Number</title>
-    <style>
-        .phone-container {
-            display: flex;
-            align-items: center;
-            cursor: pointer;
-        }
-        .phone-number {
-            margin-left: 10px;
-            font-size: 18px;
-        }
-    </style>
-</head>
-<body>
-    <div class="phone-container" onclick="copyToClipboard()">
-        <img src="https://img.icons8.com/color/48/apple-phone.png" alt="Phone" width="48" height="48">
+        <a src="https://img.icons8.com/color/48/apple-phone.png" alt="Phone" width="48" height="48">
         <span class="phone-number">79851478523</span>
-    </div>
-
-    <script>
-        function copyToClipboard() {
-            const phoneNumber = document.querySelector('.phone-number').innerText;
-            const tempInput = document.createElement('input');
-            tempInput.value = phoneNumber;
-            document.body.appendChild(tempInput);
-            tempInput.select();
-            document.execCommand('copy');
-            document.body.removeChild(tempInput);
-            alert('Номер телефона скопирован в буфер обмена: ' + phoneNumber);
-        }
-    </script>
-</body>
-</html>
     </li>
 </ul>
 
