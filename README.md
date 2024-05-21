@@ -14,7 +14,7 @@
         </a>
     </li>
     <li>
-        <a src="https://img.icons8.com/color/48/apple-phone.png" alt="Phone" width="48" height="48">
+        <img src="https://img.icons8.com/color/48/apple-phone.png" alt="Phone" width="48" height="48">
         <span class="phone-number">79851478523</span>
     </li>
 </ul>
