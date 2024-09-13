@@ -1,28 +1,10 @@
 ## Имя и фамилия
 Никита Фединский
 
-## Контактная информация
-<ul>
-    <li>
-        <a href="https://t.me/django_proect">
-            <img src="https://img.icons8.com/color/48/telegram-app.png" alt="Telegram" width="48" height="48">
-        </a>
-    </li>
-    <li>
-        <a href="mailto:nik.fedinsky@mail.ru">
-            <img src="https://img.icons8.com/fluency/48/apple-mail.png" alt="Email" width="48" height="48">
-        </a>
-    </li>
-    <li>
-        <img src="https://img.icons8.com/color/48/apple-phone.png" alt="Phone" width="48" height="48">
-        <span class="phone-number">79851478523</span>
-    </li>
-</ul>
-
 ## Образование
 ### [Московский Энергетический Институт](https://mpei.ru/Pages/default.aspx)
 - Бакалавриат
-- 2 курс 
+- 3 курс 
 - Cпециальность "Прикладная информатика в экономике"
 - Факультет "Инженерно – экономический институт (ИНЭИ)"
 - Года окончания 2025 год
@@ -42,12 +24,6 @@
 #### Фреймворки 
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="32" height="32" alt="Qt Icon"></img>
 <img width="32" height="32" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"></img>
-### Веб-разработка
->![HTML5](https://img.icons8.com/color/48/html-5--v1.png) 
-![CSS3](https://img.icons8.com/color/48/css3.png)
-![boostrap](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png)
-### Фреймворки
-![Django](https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-tritone-tal-revivo.png)
 ### Инструменты
 >![Git](https://img.icons8.com/color/48/git.png) 
 ![SQL](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-structured-query-language-a-standard-computer-language-in-server-database-color-tal-revivo.png)
