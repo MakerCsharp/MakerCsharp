@@ -16,11 +16,7 @@
 ## Навыки
 ### Языки программирования
 >![Bash](https://img.icons8.com/color/48/bash.png) 
-![C#](https://img.icons8.com/color/48/c-sharp-logo.png) 
-![Python](https://img.icons8.com/color/48/python--v1.png)
-![C](https://img.icons8.com/fluency/48/c-programming.png)
 ![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)
-![flutter](https://img.icons8.com/fluency/48/flutter.png)
 #### Фреймворки 
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="32" height="32" alt="Qt Icon"></img>
 <img width="32" height="32" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"></img>
