@@ -24,6 +24,9 @@
 ### Сиситема контроля версий
 >![Git](https://img.icons8.com/color/48/git.png)
 ### Базы данных
+-- sqlite
+-- oracle
+-- microsoft sql server
 
 ### Платформы по программированию
 ---
