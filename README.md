@@ -24,7 +24,7 @@
 ### Сиситема контроля версий
 >![Git](https://img.icons8.com/color/48/git.png)
 ### Базы данных
-![image](https://github.com/user-attachments/assets/7c450ffd-064d-4b23-875a-743a001bb55e)
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48">
 ![sql_oracle](https://img.icons8.com/color/48/oracle-logo.png)
 ### Платформы по программированию
 ---
