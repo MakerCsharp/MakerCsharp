@@ -24,7 +24,7 @@
 ### Сиситема контроля версий
 >![Git](https://img.icons8.com/color/48/git.png)
 ### Базы данных
-- ![SQLite]([https://cdn.iconscout.com/icon/free/png-50/free-sqlite-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282687.png?f=webp&w=256](https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_170706.png))
+- ![SQLite](https://cdn.iconscout.com/icon/free/png-50/free-sqlite-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282687.png?f=webp&w=256)
 - ![Oracle](https://img.icons8.com/color/48/oracle-logo.png) Oracle
 - ![Microsoft SQL Server](https://img.icons8.com/color/48/microsoft-sql-server.png) Microsoft SQL Server
 
