@@ -24,7 +24,7 @@
 ### Сиситема контроля версий
 >![Git](https://img.icons8.com/color/48/git.png)
 ### Базы данных
-![SQL](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-structured-query-language-a-standard-computer-language-in-server-database-color-tal-revivo.png)
+![SQLLIte](https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-original.svg)
 ![sql_oracle](https://img.icons8.com/color/48/oracle-logo.png)
 ### Платформы по программированию
 ---
