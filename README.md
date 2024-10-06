@@ -37,7 +37,7 @@
 - Особое конструкторское бюро МЭИ
 - должность :Техник первой категории 
 - Описание :Работа со стандартом MIO-STD-1553 c применением языка C++
-- Срок : 9 месяцев 
+- Срок : 11 месяцев 
 ## счетчик просмотров 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/MakerCsharp/MakerCshar/github-profile-views-counter">
