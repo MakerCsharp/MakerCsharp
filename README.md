@@ -24,9 +24,9 @@
 ### Сиситема контроля версий
 >![Git](https://img.icons8.com/color/48/git.png)
 ### Базы данных
-- ![SQLite](https://cdn.icon-icons.com/icons2/2699/PNG/32/sqlite_logo_icon_170706.png)
-- ![Oracle](https://img.icons8.com/color/48/oracle-logo.png) Oracle
-- ![Microsoft SQL Server](https://img.icons8.com/color/48/microsoft-sql-server.png) Microsoft SQL Server
+- ![SQLite](https://cdn.icon-icons.com/icons2/2699/PNG/48/sqlite_logo_icon_170706.png)
+- ![Oracle](https://img.icons8.com/color/48/oracle-logo.png)
+- ![Microsoft SQL Server](https://img.icons8.com/color/48/microsoft-sql-server.png) 
 
 ### Платформы по программированию
 ---
