@@ -21,7 +21,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="32" height="32" alt="Qt Icon"></img>
 <img width="32" height="32" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"></img>
 ### Инструменты
-##Сиситема контроля версий
+## Сиситема контроля версий
 >![Git](https://img.icons8.com/color/48/git.png) 
 ![SQL](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-structured-query-language-a-standard-computer-language-in-server-database-color-tal-revivo.png)
 ![sql_oracle](https://img.icons8.com/color/48/oracle-logo.png)
