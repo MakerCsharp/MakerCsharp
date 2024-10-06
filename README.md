@@ -25,7 +25,7 @@
 >![Git](https://img.icons8.com/color/48/git.png)
 ### Базы данных
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48">
-![sql_oracle](https://img.icons8.com/color/48/oracle-logo.png)
+<img src="https://img.icons8.com/color/48/oracle-logo.png" alt="ORACLE" width="48" height="48">
 ### Платформы по программированию
 ---
 ![CodeWars Badges](https://www.codewars.com/users/MakerCsharp/badges/large)
