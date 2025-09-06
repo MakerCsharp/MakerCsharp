@@ -34,15 +34,6 @@
 ---
 ![MakerCsharp's Stats](https://github-readme-stats.vercel.app/api?username=MakerCsharp&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-## Язык
-- Русский: Родной
-
-## Опыт работы 
-- Особое конструкторское бюро МЭИ
-- должность :Техник первой категории 
-- Описание :Работа со стандартом MIO-STD-1553 c применением языка C++
-- Срок : 1 год 6 месяцев 
-## счетчик просмотров 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/MakerCsharp/MakerCshar/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=MakerCsharp&color=DE002D">
