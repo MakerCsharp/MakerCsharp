@@ -15,8 +15,8 @@
 - Год окончания 2021 год
 ## Навыки
 ### Языки программирования
->![Bash](https://img.icons8.com/color/48/bash.png) 
-![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)
+>![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)
+>![C](<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>)
 #### Фреймворки 
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="32" height="32" alt="Qt Icon"></img>
 ### Инструменты
