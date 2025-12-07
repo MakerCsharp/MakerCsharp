@@ -31,10 +31,3 @@
 ---
 ![CodeWars Badges](https://www.codewars.com/users/MakerCsharp/badges/large)
 ---
-![MakerCsharp's Stats](https://github-readme-stats.vercel.app/api?username=MakerCsharp&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/MakerCsharp/MakerCshar/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=MakerCsharp&color=DE002D">
-   </a>
-</div>
