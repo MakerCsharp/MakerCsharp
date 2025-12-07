@@ -16,7 +16,7 @@
 ## Навыки
 ### Языки программирования
 >![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)
->![C](<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>)
+>![C](https://img.icons8.com/color/48/c-programming.png)
 #### Фреймворки 
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="32" height="32" alt="Qt Icon"></img>
 ### Инструменты
