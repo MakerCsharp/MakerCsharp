@@ -18,7 +18,7 @@
 >![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)
 >![C](https://img.icons8.com/color/48/c-programming.png)
 #### Фреймворки 
-<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="32" height="32" alt="Qt Icon"></img>
+>![Qt](https://img.icons8.com/ios-filled/50/qt.png)
 ### Инструменты
 ### Сиситема контроля версий
 >![Git](https://img.icons8.com/color/48/git.png)
